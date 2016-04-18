@@ -3,11 +3,21 @@
     <version>36.0</version>
     <types>
         <members>ApxCls1</members>
+        <members>ApxCls2</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Computer__c.ComputerManufacturar__c</members>
+        <name>CustomField</name>
     </types>
     <types>
         <members>Car__c</members>
         <members>Computer__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Car__c</members>
+        <members>Computer__c</members>
+        <name>CustomTab</name>
     </types>
 </Package>

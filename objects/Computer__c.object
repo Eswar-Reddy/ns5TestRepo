@@ -61,19 +61,19 @@
         <label>ComputerManufacturar</label>
         <picklist>
             <picklistValues>
-                <fullName>Hp</fullName>
+                <fullName>Apple</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Sony</fullName>
+                <fullName>Dell</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Lenovo</fullName>
+                <fullName>Acer</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>IBM</fullName>
+                <fullName>Samsung</fullName>
                 <default>false</default>
             </picklistValues>
             <sorted>false</sorted>

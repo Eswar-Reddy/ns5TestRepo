@@ -29,6 +29,7 @@
     <types>
         <members>Car__c</members>
         <members>Computer__c</members>
+        <members>pickyChild__c</members>
         <name>CustomTab</name>
     </types>
     <types>

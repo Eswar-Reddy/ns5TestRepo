@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>37.0</version>
     <types>
         <members>AccP1</members>
         <members>ApxCls1</members>
@@ -9,6 +9,15 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>Account.SLA__c</members>
         <members>Computer__c.ComputerManufacturar__c</members>
         <name>CustomField</name>
     </types>

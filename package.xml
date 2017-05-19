@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>37.0</version>
     <types>
         <members>AccP1</members>
         <members>AccP11</members>
@@ -7,83 +8,16 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>AppSwitcher</members>
-        <members>Salesforce1</members>
-        <name>AppMenu</name>
-    </types>
-    <types>
-        <members>Account.testapprovalprocess</members>
-        <name>ApprovalProcess</name>
-    </types>
-    <types>
-        <members>Case.Standard</members>
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
     </types>
     <types>
-        <members>Case</members>
         <members>Lead</members>
         <name>AssignmentRules</name>
     </types>
     <types>
-        <members>Case</members>
-        <members>Lead</members>
-        <name>AutoResponseRules</name>
-    </types>
-    <types>
-        <members>DataCloudGeoLocation</members>
-        <name>CleanDataService</name>
-    </types>
-    <types>
-        <members>Internal Zone</members>
-        <name>Community</name>
-    </types>
-    <types>
-        <members>standard__AppLauncher</members>
-        <members>standard__Chatter</members>
-        <members>standard__Community</members>
-        <members>standard__Content</members>
-        <members>standard__Marketing</members>
-        <members>standard__Platform</members>
-        <members>standard__Sales</members>
-        <members>standard__Service</members>
-        <members>standard__ServiceConsole</members>
-        <members>standard__Sites</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>Account.Active__c</members>
-        <members>Account.AutorabitExtId__c</members>
-        <members>Account.CustomerPriority__c</members>
-        <members>Account.NumberofLocations__c</members>
-        <members>Account.SLAExpirationDate__c</members>
-        <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
-        <members>Account.UpsellOpportunity__c</members>
-        <members>Activity.testfieldforfls__c</members>
-        <members>Case.EngineeringReqNumber__c</members>
-        <members>Case.PotentialLiability__c</members>
-        <members>Case.Product__c</members>
-        <members>Case.SLAViolation__c</members>
-        <members>Contact.Languages__c</members>
-        <members>Contact.Level__c</members>
-        <members>Goal.OrigGoalId__c</members>
-        <members>Lead.CurrentGenerators__c</members>
-        <members>Lead.NumberofLocations__c</members>
-        <members>Lead.Primary__c</members>
-        <members>Lead.ProductInterest__c</members>
-        <members>Lead.SICCode__c</members>
-        <members>Metric.OrigMetricId__c</members>
-        <members>Opportunity.CurrentGenerators__c</members>
-        <members>Opportunity.DeliveryInstallationStatus__c</members>
-        <members>Opportunity.MainCompetitors__c</members>
-        <members>Opportunity.OrderNumber__c</members>
-        <members>Opportunity.TrackingNumber__c</members>
-        <members>SupportTestObject__c.Sample_Date__c</members>
-        <members>SupportTestObject__c.Sample_Number__c</members>
-        <members>SupportTestObject__c.Sample_Text__c</members>
-        <members>SupportTestObject__c.SupportTest_Account__c</members>
-        <members>call__c.Verified_Customer__c</members>
+        <members>Computer__c.ComputerManufacturar__c</members>
         <name>CustomField</name>
     </types>
     <types>

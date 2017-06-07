@@ -14,6 +14,10 @@
                 <behavior>Edit</behavior>
                 <field>PLTest__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>field1__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

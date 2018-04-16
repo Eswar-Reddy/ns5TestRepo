@@ -4,7 +4,7 @@
         <fullName>Web to Lead Routing</fullName>
         <active>false</active>
         <ruleEntry>
-            <assignedTo>prashanth.s@autorabit.com</assignedTo>
+            <assignedTo>naresh.v@autorabit.com.sdldest</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.LastName</field>
@@ -24,7 +24,7 @@
             <template>unfiled$public/Lead_Notification_Web_to_Lead_Webinar</template>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>navneeth@39demo.com</assignedTo>
+            <assignedTo>naresh.v@autorabit.com.sdldest</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
